@@ -5,11 +5,11 @@ Shopkeepers can upload their products to make them visible online.
 Customers can explore products and then buy them offline from shops.  
 It supports offline shopping while giving digital reach to local stores.  
 The goal is to help small businesses grow using technology.
-
-__👥 ##Team__
-__. Member 1:__ Frontend Development & UI Design
-__. Member 2:__ Backend Logic & Server handling
-__. Member 3:__ Backend Intergreation and & API Management 
+---
+**👥 Team**
+-__. Member 1:__ Frontend Development & UI Design
+-__. Member 2:__ Backend Logic & Server handling
+-__. Member 3:__ Backend Intergreation and & API Management 
 
 ## 🚀 Features
 - Shopkeeper product upload  
