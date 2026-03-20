@@ -7,9 +7,9 @@ It supports offline shopping while giving digital reach to local stores.
 The goal is to help small businesses grow using technology.
 ##
 **👥 Team**
--__. Member 1:__ Frontend Development & UI Design
--__. Member 2:__ Backend Logic & Server handling
--__. Member 3:__ Backend Intergreation and & API Management 
+- **Member 1:** Frontend Development & UI Design
+- **Member 2:** Backend Logic & Server handling
+- **Member 3:** Backend Intergreation and & API Management 
 
 ## 🚀 Features
 - Shopkeeper product upload  
