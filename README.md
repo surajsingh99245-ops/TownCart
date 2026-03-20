@@ -6,7 +6,7 @@ Customers can explore products and then buy them offline from shops.
 It supports offline shopping while giving digital reach to local stores.  
 The goal is to help small businesses grow using technology.
 ##
-**👥 Team**
+**##👥 Team**
 - **Member 1:** Frontend Development & UI Design
 - **Member 2:** Backend Logic & Server handling
 - **Member 3:** Backend Intergreation and & API Management 
